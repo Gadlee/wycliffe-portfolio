@@ -1,0 +1,2 @@
+# wycliffe-portfolio
+Static page
